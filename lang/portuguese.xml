@@ -521,7 +521,7 @@
 		<!-- == INCA == -->
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_DESCRIPTION" Language="pt_BR">
-			<Text>Rotas comerciais [ICON_TradeRoute] domesticas ganham +1 [ICON_Food] para cada painel de montanha na cidade de origem. Rotas comerciais internacionais [ICON_TradeRoute] ganham +1 [ICON_GOLD] de Ouro para cara painel de montanha na cidade de origem. Ganha o Qhapaq Ñan contrução quando a cívica "Foreign Trade" é descoberta.</Text>
+			<Text>Rotas comerciais [ICON_TradeRoute] domesticas ganham +1 [ICON_Food] para cada painel de montanha na cidade de origem. Rotas comerciais internacionais [ICON_TradeRoute] ganham +1 [ICON_GOLD] de Ouro para cara painel de montanha na cidade de origem. Ganha o Qhapaq Ñan contrução quando a cívica "Comercio Exterior" é descoberta.</Text>
 		</Replace>
 
 		<!-- == INDIA == -->
@@ -1045,7 +1045,7 @@
 		<!-- == ZULU == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION" Language="pt_BR"> <!-- icons -->
-			<Text>Cidades guarnecidas por unidades obtêm +3 de lealdade por turno (+5 se for uma Corporação ou Exército). Conquistar cidades com unidades as melhoraram para Corporação ou Exército, se os cívicos adequados estiverem desbloqueados. Construções em Ikanda concedem +1 de [ICON_CULTURE] cultura e +1 de [ICON_GOLD] ouro cada.</Text>
+			<Text>Cidades guarnecidas por unidades obtêm +3 de lealdade por turno (+5 se for uma Corporação ou Exército). Conquistar cidades com unidades as melhoraram para Corporação ou Exército, se os cívicos adequados estiverem desbloqueados. Construções da Ikanda concedem +1 de [ICON_CULTURE] cultura e +1 de [ICON_GOLD] ouro cada.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION" Language="pt_BR">
@@ -1298,10 +1298,10 @@
 			<Text>Quando escolhido, recebe um Construtor na sua capital. +1 de [ICON_FOOD] de Comida em painéis com [ICON_RESOURCE_CATTLE], [ICON_RESOURCE_RICE], [ICON_RESOURCE_WHEAT], e [ICON_RESOURCE_MAIZE].</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION" Language="pt_BR">
-			<Text>20% [ICON_PRODUCTION] de Produção para colonos.[NEWLINE] Expansão das bordas aumentam em 50% mais rápido, novas cidades ganham 2 painéis grátis.</Text>
+			<Text>20% [ICON_PRODUCTION] de Produção para colonos.[NEWLINE] Expansão das bordas aumentam em 50% maiss rápido, novas cidades ganham 2 painéis grátis.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION" Language="pt_BR">
-			<Text>20% [ICON_PRODUCTION] de Produção para colonos.[NEWLINE] Expansão das bordas aumentam em 50% mais rápido, novas cidades ganham 2 painéis grátis.</Text>
+			<Text>20% [ICON_PRODUCTION] de Produção para colonos.[NEWLINE] Expansão das bordas aumentam em 50% maiss rápido, novas cidades ganham 2 painéis grátis.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION" Language="pt_BR">
 			<Text>Rios dão adjacência de +1 de [ICON_FAITH] Fé aos Distritos de Local Sagrado. +1 de [ICON_Amenities] Serviços e +1 de [ICON_Housing] de Habitação para cidades se elas possuírem um Local Sagrado adjacente ao um Rio.</Text>
@@ -1868,7 +1868,7 @@
 			<Text>[ICON_HOUSING] de Habitação por nível de Muralha. +2 de [ICON_CULTURE] Cultura para cada Muralha do Renascimento.</Text>
 		</Replace>
 		<Replace Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION" Language="pt_BR">
-			<Text>+2 [ICON_InfluencePerTurn] Pontos de Ingluência por turno.</Text>
+			<Text>+2 [ICON_InfluencePerTurn] Pontos de Influência por turno.</Text>
 		</Replace>
 		<Replace Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION" Language="pt_BR">
 			<Text>Fronteiras abertas com todas as Cidade-Estados, e +4 [ICON_InfluencePerTurn] Pontos de influência por turno.</Text>
