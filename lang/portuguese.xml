@@ -1211,7 +1211,7 @@
 			<Text>15% de aumento em [ICON_CULTURE] cultura gerada pela cidade e a pressão religiosa advindo desta cidade é 100% maior em outras cidades. +2 de [ICON_Faith] Fé por cada distrito especializado nesta cidade.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION" Language="pt_BR">
-			<Text>+15% [ICON_Culture] de Cultura gerada pela cidade e +100% de pressão religiosa para cidadedes adjacentes. +2 [ICON_Faith] de Fé para cada distrito na cidade.</Text>
+			<Text>Permite a compra de [ICON_DISTRICT] Distritos com [ICON_FAITH] Fé.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION" Language="pt_BR">
 			<Text>Permite que essa cidade compre [ICON_DISTRICT] distritos com [ICON_FAITH] Fé.</Text>
